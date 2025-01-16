@@ -11,13 +11,13 @@ Name: Richard Raphael Banak
 To install, run the command:
 
 ```python
-pip install git+https://github.com/Richardbnk/navigation_tools
+pip install git+https://github.com/Richardbnk/navigation_tool
 ```
 
 To update your packge use the command:
 
 ```python
-pip install --upgrade git+https://github.com/Richardbnk/navigation_tools
+pip install --upgrade git+https://github.com/Richardbnk/navigation_tool
 ```
 
 ### Requirements
