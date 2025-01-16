@@ -1,4 +1,4 @@
-# RBSpec - robot specialist
+# Navigation Tool
 
 ## Python library to simplify navigation using mouse and keyboard for automated actions when RPA techniques are not effective.
 
